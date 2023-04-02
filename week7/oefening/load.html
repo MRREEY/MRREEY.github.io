@@ -8,16 +8,16 @@
     <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
     <script src="https://unpkg.com/ml5@latest/dist/ml5.min.js"></script>
 
-    <script defer src="app.js" type="module"></script>
+    <script defer src="loadM.js" type="module"></script>
     <title>ML5 Neural Network Regression</title>
   </head>
 
   <body>
-    <div><h2>ML5 Neural Network Regression</h2></div>
-    <a href="load.html">model page</a>
+    <div><h2>Voorspel je MPG</h2></div>
+    <a href="index.html">model page</a>
 
-    <button type="button" id="trainM">Train</button>
-    <button type="button" id="saveM">Save</button>
+    <input type="number" id="horsepower" name="horsepower"> </input>
+    <button type="button" id="predict">Predict</button>
     <div id="view"></div>
   </body>
 </html>
