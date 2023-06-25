@@ -59,3 +59,6 @@ Plaats je project live en vul de feedbackfruits evaluatie in.
 <br>
 
 > 🤯 tip: gebruik het IP adres van je localhost om je site meteen op je mobiel te testen, bv. `http://192.168.2.4/hamsterdetective`. Dit werkt als je mobiel en desktop op dezelfde wifi zitten. Je kan ook glitch.com of codesandbox.io gebruiken om je project te testen op je mobiel.
+
+### Uitleg herkansing
+In de liveserver van deze opdracht lukt het om mijn webcam in te laden en in github pages is dat blijkbaar niet goed gegaan. Ik heb het niet kunnen oplossen. Het idee was dat je aan de hand van handgebaren "steen" en "papier" voor de webcam de applicatie kan voorspellen wat het is en daar over spreken
