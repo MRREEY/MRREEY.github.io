@@ -17,6 +17,6 @@ async function predictScores(){
     })
 
     let h2 = document.createElement("h3")
-    h2.innerHTML = "Learning "+ prediction[1].Hours + " hours means you get an average score of "+ Math.round(prediction[1].Scores)+ "."
+    h2.innerHTML = "Met "+ prediction[1].Hours + " uur leren krijg je een gemiddelde score van ongeveer "+ Math.round(prediction[1].Scores)+ "/100."
     document.body.appendChild(h2)
 }
